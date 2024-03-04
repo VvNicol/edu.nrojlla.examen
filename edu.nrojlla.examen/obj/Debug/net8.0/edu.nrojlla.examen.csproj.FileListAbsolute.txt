@@ -1,0 +1,14 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\edu.nrojlla.examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\edu.nrojlla.examen.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\edu.nrojlla.examen.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\edu.nrojlla.examen.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\bin\Debug\net8.0\edu.nrojlla.examen.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\bin\Debug\net8.0\edu.nrojlla.examen.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\bin\Debug\net8.0\edu.nrojlla.examen.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\bin\Debug\net8.0\edu.nrojlla.examen.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\bin\Debug\net8.0\edu.nrojlla.examen.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\edu.nrojlla.examen.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\refint\edu.nrojlla.examen.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\edu.nrojlla.examen.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\edu.nrojlla.examen.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.nrojlla.examen\obj\Debug\net8.0\ref\edu.nrojlla.examen.dll
